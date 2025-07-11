@@ -2,29 +2,39 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenzo Vicentini</title>
-    <link>https://gallery.bjt1698.it/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Lorenzo Vicentini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gallery.bjt1698.it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BMW R1200GS</title>
+      <link>http://localhost:1313/gs/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gs/</guid>
+        <media:content url="http://localhost:1313/gs/feature_hu_d62e2f19a13f4d21.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gs/feature_hu_d62e2f19a13f4d21.jpg&quot; /&gt;
+          &lt;p&gt;Varie foto della moto&lt;/p&gt;
+        </description></item>
     <item>
       <title>Colle dell&#39;Agnello - Col d&#39;Izoard</title>
-      <link>https://gallery.bjt1698.it/agnello/</link>
+      <link>http://localhost:1313/agnello/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://gallery.bjt1698.it/agnello/</guid>
-        <media:content url="https://gallery.bjt1698.it/agnello/feature_hu_77c0248f2329e7d1.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/agnello/</guid>
+        <media:content url="http://localhost:1313/agnello/feature_hu_77c0248f2329e7d1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://gallery.bjt1698.it/agnello/feature_hu_77c0248f2329e7d1.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/agnello/feature_hu_77c0248f2329e7d1.jpg&quot; /&gt;
           &lt;p&gt;Credits to izoardphotos.com for the cover&lt;/p&gt;
         </description></item>
     <item>
       <title>Dead Hour</title>
-      <link>https://gallery.bjt1698.it/dead_hour/</link>
+      <link>http://localhost:1313/dead_hour/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://gallery.bjt1698.it/dead_hour/</guid>
-        <media:content url="https://gallery.bjt1698.it/dead_hour/feature_hu_884b945a72fbc632.jpeg" type="image/jpeg"/>
+      <guid>http://localhost:1313/dead_hour/</guid>
+        <media:content url="http://localhost:1313/dead_hour/feature_hu_884b945a72fbc632.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://gallery.bjt1698.it/dead_hour/feature_hu_884b945a72fbc632.jpeg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/dead_hour/feature_hu_884b945a72fbc632.jpeg&quot; /&gt;
           &lt;p&gt;Probabilmente sono pazzo&lt;/p&gt;
         </description></item>
   </channel>
