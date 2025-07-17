@@ -1,3 +1,7 @@
 theme = "gallery"
 baseURL = "https://gallery.bjt1698.it/"
 title = "Lorenzo Vicentini"
+[params]
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/bjt_1698/"
+    github = "https://github.com/bjt1698/gallery/"
