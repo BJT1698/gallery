@@ -1,0 +1,5 @@
+#!/bin/sh
+
+hugo build
+
+GIT_SSH_COMMAND="ssh -i ~/.ssh/gallery" git push origin main
