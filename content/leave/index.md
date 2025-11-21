@@ -1,5 +1,5 @@
 ---
-title: "Dead Hour"
+title: "Leave"
 description: "Probabilmente sono pazzo"
 date: 2025-06-28
 featured_image: feature.jpeg
