@@ -7,4 +7,5 @@ menu:
     weight: 90
 ---
 
-Niente di speciale, buona permanenza. Si potete scaricare le foto e farne quello che volete.
+Niente di speciale, buona permanenza. 
+Si potete scaricare le foto e farne quello che volete.
