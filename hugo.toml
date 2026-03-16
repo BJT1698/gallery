@@ -1,6 +1,10 @@
 theme = "gallery"
 baseURL = "https://gallery.bjt1698.it/"
 title = "Lorenzo Vicentini"
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+
 [params]
   [params.socialIcons]
     instagram = "https://www.instagram.com/bjt_1698/"
