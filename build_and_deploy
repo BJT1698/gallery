@@ -2,6 +2,8 @@
 
 hugo build
 
-git commit -a -m "Updated Gallery"
+git add .
+
+git commit -m "Updated Gallery"
 
 GIT_SSH_COMMAND="ssh -i ~/.ssh/gallery" git push origin main
