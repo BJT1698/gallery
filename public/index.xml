@@ -1,66 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Lorenzo Vicentini</title>
-		<link>https://gallery.bjt1698.it/</link>
-		<description>Recent content on Lorenzo Vicentini</description>
-		<generator>Hugo</generator>
-		<language>en</language>
-		
-		
-		
-		
-			<lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://gallery.bjt1698.it/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Col de la bonette</title>
-				<link>https://gallery.bjt1698.it/bonette/</link>
-				<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-				<guid>https://gallery.bjt1698.it/bonette/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Food</title>
-				<link>https://gallery.bjt1698.it/food/</link>
-				<pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-				<guid>https://gallery.bjt1698.it/food/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Österreich</title>
-				<link>https://gallery.bjt1698.it/austria/</link>
-				<pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-				<guid>https://gallery.bjt1698.it/austria/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>BMW R1200GS</title>
-				<link>https://gallery.bjt1698.it/gs/</link>
-				<pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-				<guid>https://gallery.bjt1698.it/gs/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Colle dell&#39;Agnello - Col d&#39;Izoard</title>
-				<link>https://gallery.bjt1698.it/agnello/</link>
-				<pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-				<guid>https://gallery.bjt1698.it/agnello/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Leave</title>
-				<link>https://gallery.bjt1698.it/leave/</link>
-				<pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-				<guid>https://gallery.bjt1698.it/leave/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>About</title>
-				<link>https://gallery.bjt1698.it/about/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://gallery.bjt1698.it/about/</guid>
-				<description>&lt;p&gt;Niente di speciale, buona permanenza.&#xA;Si potete scaricare le foto e farne quello che volete.&lt;/p&gt;</description>
-			</item>
-	</channel>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorenzo Vicentini</title>
+    <link>https://gallery.bjt1698.it/</link>
+    <description>Recent content on Lorenzo Vicentini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gallery.bjt1698.it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Col de la bonette</title>
+      <link>https://gallery.bjt1698.it/bonette/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://gallery.bjt1698.it/bonette/</guid>
+        <media:content url="https://gallery.bjt1698.it/bonette/bonette_1_hu_ec23ae6c53881ac9.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://gallery.bjt1698.it/bonette/bonette_1_hu_ec23ae6c53881ac9.jpg&quot; /&gt;
+          &lt;p&gt;Btw sono scappato 5 minuti dopo (grandinava)&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Food</title>
+      <link>https://gallery.bjt1698.it/food/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://gallery.bjt1698.it/food/</guid>
+        <media:content url="https://gallery.bjt1698.it/food/meat_capo1_hu_71e2ab24b1c320ef.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://gallery.bjt1698.it/food/meat_capo1_hu_71e2ab24b1c320ef.png&quot; /&gt;
+          &lt;p&gt;Si ogni tanto cucino&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Österreich</title>
+      <link>https://gallery.bjt1698.it/austria/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://gallery.bjt1698.it/austria/</guid>
+        <media:content url="https://gallery.bjt1698.it/austria/feature_hu_9f12ec609dec5d42.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://gallery.bjt1698.it/austria/feature_hu_9f12ec609dec5d42.jpg&quot; /&gt;
+          &lt;p&gt;Il mio viaggio in Austria&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>BMW R1200GS</title>
+      <link>https://gallery.bjt1698.it/gs/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://gallery.bjt1698.it/gs/</guid>
+        <media:content url="https://gallery.bjt1698.it/gs/feature_hu_d62e2f19a13f4d21.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://gallery.bjt1698.it/gs/feature_hu_d62e2f19a13f4d21.jpg&quot; /&gt;
+          &lt;p&gt;Varie foto della moto&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Colle dell&#39;Agnello - Col d&#39;Izoard</title>
+      <link>https://gallery.bjt1698.it/agnello/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://gallery.bjt1698.it/agnello/</guid>
+        <media:content url="https://gallery.bjt1698.it/agnello/feature_hu_77c0248f2329e7d1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://gallery.bjt1698.it/agnello/feature_hu_77c0248f2329e7d1.jpg&quot; /&gt;
+          &lt;p&gt;Credits to izoardphotos.com for the cover&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Leave</title>
+      <link>https://gallery.bjt1698.it/leave/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://gallery.bjt1698.it/leave/</guid>
+        <media:content url="https://gallery.bjt1698.it/leave/feature_hu_884b945a72fbc632.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://gallery.bjt1698.it/leave/feature_hu_884b945a72fbc632.jpeg&quot; /&gt;
+          &lt;p&gt;Probabilmente sono pazzo&lt;/p&gt;
+        </description></item>
+  </channel>
 </rss>
